@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:7bac925e-a8d8-41ac-8d65-0bfe9a42e9d8" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Полное собрание сочинений. Дневник 1890 г.</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Лев Николаевич Толстой. Дневник 1890 г.</text>
+      </navLabel>
+      <content src="Text/0001_1001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Предисловие к электронному изданию</text>
+      </navLabel>
+      <content src="Text/0001_1003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>ДНЕВНИК 1890 г.</text>
+      </navLabel>
+      <content src="Text/0001_1006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>КОММЕНТАРИИ</text>
+      </navLabel>
+      <content src="Text/0001_1009.xhtml"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>КРАТКАЯ ХРОНОЛОГИЧЕСКАЯ КАНВА ЖИЗНИ И ТВОРЧЕСТВА Л. Н. ТОЛСТОГО за 1890 г.</text>
+        </navLabel>
+        <content src="Text/0001_1009_2001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>ПЕРВЬІЕ ПУБЛИКАЦИИ ОТРЫВКОВ ИЗ ДНЕВНИКА И ЗАПИСНЫХ КНИЖЕК 1890 г.</text>
+        </navLabel>
+        <content src="Text/0001_1009_2002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>ОПИСАНИЕ РУКОПИСЕЙ</text>
+        </navLabel>
+        <content src="Text/0001_1009_2003.xhtml#h0001_1009_2003_2"/>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>ДНЕВНИК Л. Н. ТОЛСТОГО 1890 г.</text>
+          </navLabel>
+          <content src="Text/0001_1009_2003.xhtml#h0001_1009_2003_3001_3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>ПРИМЕЧАНИЯ К ДНЕВНИКУ 1890 г.</text>
+        </navLabel>
+        <content src="Text/0001_1009_2004.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>ПРЕДИСЛОВИЕ К ПЯТИДЕСЯТОМУ И ПЯТЬДЕСЯТ ПЕРВОМУ ТОМАМ</text>
+      </navLabel>
+      <content src="Text/0001_1010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>РЕДАКЦИОННЫЕ ПОЯСНЕНИЯ</text>
+      </navLabel>
+      <content src="Text/0001_1011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>ИЛЛЮСТРАЦИИ</text>
+      </navLabel>
+      <content src="Text/0001_1012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Примечания</text>
+      </navLabel>
+      <content src="Text/notes.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

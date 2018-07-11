@@ -1,0 +1,567 @@
+
+body {
+		font-family: "Times New Roman", Times, serif;
+}
+
+p.avantitul {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:center;
+	text-indent: 0px;
+}
+
+h1.avantitul {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:center;
+	text-indent: 0px;
+	margin-top: 1em;
+}
+
+.titul {
+	font-family: "Times New Roman", Times, serif;
+}
+
+.titul .head1 {
+	font-size:160%;
+
+}
+
+.titul .head2 {
+	font-size:140%;
+}
+
+.titul p {
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 1em;
+}
+
+.titul p.sm {
+	font-size: 0.9em;
+}
+
+span.border {
+	border:1px solid #333;
+	padding:0 2px;
+	text-indent: 0px;
+}
+
+div.center {
+	text-align:center;
+	margin-top:20%;
+	text-indent: 0px;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-weight: normal;
+	text-align: center;
+    page-break-after: avoid;
+}
+
+h1 {
+	font-size: 1.8em;
+}
+
+h2 {
+	font-size: 1.5em;
+	text-indent: 0em;
+}
+
+h3 {
+	font-size: 1.3em;
+	text-align: center;
+	text-indent: 0em;
+	margin: 0.5em 0px 0.5em 0px;
+}
+
+h4 {
+	font-size: 1.2em;
+	text-align: center;
+	text-indent: 0em;
+	margin: 0.5em 0px 0.5em 0px;
+}
+
+h5 {
+	font-size: 1.2em;
+	margin: 0.5em 0px 0.5em 0px;
+}
+
+h6 {
+	font-size: 1.1em;
+	margin: 0.5em 0px 0.5em 0px;
+}
+
+p.forword {
+	font-family: "Times New Roman", Times, serif;
+	text-align:justify;
+	padding:0;
+	margin:0;
+	text-indent: 1.5em;
+}
+
+.forword h1,
+.forword h2 {
+	font-family: "Times New Roman", Times, serif;
+    page-break-after: avoid;
+}
+
+.forword table
+{
+	font-family: "Times New Roman", Times, serif;
+}
+
+.tolstoi p {
+	font-family: "Times New Roman", Times, serif;
+	text-align:justify;
+	padding:0;
+	margin:0;
+	text-indent: 1.5em;
+	font-size:110%;
+}
+
+.tolstoi h1,
+.tolstoi h2,
+.tolstoi h3,
+.tolstoi h4,
+.tolstoi h5
+{
+	font-family: "Times New Roman", Times, serif;
+    page-break-after: avoid;
+}
+
+.footnote {
+	font-family: "Times New Roman", Times, serif;
+	margin: 1em 0px;
+}
+
+.footnotesnum {
+    text-align: center;
+	font-size: 1.8em;
+	margin-bottom: 0.5em;
+    text-indent: 0px;
+}
+
+
+p {
+    margin: 0px;
+    text-indent: 1.5em;
+    text-align: justify;
+}
+
+table {
+		font-family: "Times New Roman", Times, serif;
+        font-size: 1em;
+        margin: 0.5em;
+        border-collapse: collapse;
+        border: none;
+		width: 100%;
+}
+tr {
+        border: none;
+}
+td {
+        border: none;
+        padding: 0px;
+		vertical-align: top;
+}
+th {
+        text-align: center;
+        border: none;
+        background-color: #CEE;
+        padding: 0.3em;
+}
+
+
+td.border {
+        border: 1px solid #666666;
+}
+
+td.border_top {
+        border-top: 1px solid #666666;
+}
+
+tr.border_bottom_d {
+        border-bottom: 3px double #666666;
+}
+
+table.width {
+	width: 31%;
+	margin-left: 20%;
+}
+
+table.border_out {
+	border: 2px solid #666666;
+}
+
+table.border_out td {
+	border-right: 1px solid #666666;
+}
+
+table.border_in {
+	border: 2px solid #666666;
+}
+
+table.border_in td {
+	border-right: 1px solid #666666;
+	border-left: 1px solid #666666;
+}
+
+.width {
+		width: 80%;
+}
+
+td.abc {
+        padding: 0px;
+}
+
+.snoska {
+	vertical-align: super;
+	font-size:70%;
+}
+
+.textsnoski {
+	margin-left: 40px;
+}
+
+.Razradka {
+  	letter-spacing: 0.3em;
+}
+
+span.Razradka {
+  	letter-spacing: 0.3em;
+}
+
+.replica {
+  	letter-spacing: 0.3em;
+	text-align: center;
+}
+
+.unicode {
+	font-family: "Lucida Sans Unicode";
+}
+p.subtitle {
+    text-indent: 0px;
+    text-align: center;
+    	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+}
+
+.center {
+	text-align: center;
+    text-indent: 0px;
+}
+
+p.centerline {
+	text-align: center;
+    text-indent: 0px;
+	margin: 0.5em 0px;
+}
+
+.right {
+	text-align: right;
+    text-indent: 0px;
+}
+
+.left {
+	text-align: left;
+    text-indent: 0px;
+}
+
+.nbold {
+	font-weight: normal;
+}
+
+.petit {
+	font-size: 0.9em;
+}
+
+span.petit {
+	font-size: 0.9em;
+}
+
+.big {
+	font-size: 1.1em;
+}
+
+span.big {
+	font-size: 1.1em;
+}
+
+.vsm {
+	font-size: 0.8em;
+}
+
+span.vsm {
+	font-size: 0.8em;
+}
+
+p.margin {
+	margin: 0.5em 0px 0.5em 0px;
+}
+
+.notindent {
+	text-indent: 0px;
+}
+
+.indentmin {
+	text-indent: -1em;;
+}
+
+.indentmin2 {
+	text-indent: -2em;
+	margin-left: 2em;
+}
+
+.indent2 {
+	margin-left: 2em;
+}
+
+p.podpis {
+	margin-left:50%;
+}
+
+.epigraph {
+	font-size: 0.9em;
+	margin-left:35%;
+	margin-bottom: 0.5em;
+	text-indent: 1.5em;
+}
+.poem {
+	margin-left:20%;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-indent: 0px;
+}
+
+.stanza {
+/*	margin-left:35%;*/
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	text-indent: 0px;
+}
+
+
+p.margin10 {
+	margin-left:10%;
+}
+
+p.indented {
+	margin-left:10%;
+}
+
+p.text-author {
+	font-size: 0.9em;
+    text-indent: 0px;
+	text-align:right;
+	margin-bottom: 0.5em;
+}
+
+img {
+        /*display:block;*/
+        text-align: center;
+        padding: 3px;
+}
+
+img.image {
+	max-width: 90%;	
+}
+
+.image {
+	text-align: center;
+	margin: 0px auto 1em auto;
+	page-break-inside: avoid;
+	display: block;	
+	width: 90%;	
+	page-break-inside: avoid;
+}
+
+.imagesmall {
+	text-align: center;
+	margin: 0px auto 1em auto;
+	page-break-inside: avoid;
+	display: block;	
+	width: 30%;	
+	page-break-inside: avoid;
+}
+
+
+.coverimages {
+		height: 100%;
+}
+
+.inline {
+		height: 1em;
+		display: inline-block;
+		vertical-align: middle;
+}
+
+.inlinelarge {
+		height: 2.2em;
+		display: inline-block;
+		vertical-align: middle;
+}
+
+a {
+        line-height: 0.1;
+        vertical-align: super;
+        font-size: 0.7em;
+}
+a.loi {
+        vertical-align: baseline;
+        line-height: normal;
+        font-size: 1em;
+}
+sub {
+        line-height: 0.1;
+        font-size: 0.7em;
+}
+sup {
+        line-height: 0.1;
+        font-size: 0.7em;
+}
+
+div.partname {
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+div.partname p {
+	text-align: left;
+	text-indent: 0px;
+	font-size: 1.1em;
+}
+
+.middle {
+	vertical-align: middle;
+}
+
+.top {
+	vertical-align: top;
+}
+
+.w10 {
+	width: 10%;
+}
+
+.w30 {
+	width: 30%;
+}
+
+.w33 {
+		width: 30%;
+}
+
+.w50 {
+		width: 50%;
+}
+
+.w20 {
+		width: 20%;
+}
+
+.w60 {
+		width: 60%;
+}
+
+.w80 {
+		width: 80%;
+}
+
+.w25 {
+		width: 25%;
+}
+
+.w5 {
+		width: 5%;
+}
+
+.w70 {
+		width: 70%;
+}
+
+.floatr {
+	float: right;
+}
+
+.floatl {
+	float: left;
+}
+
+.floatn {
+	clear: both;;
+}
+
+.tblbtw {
+	margin-top: -1.1em;
+	margin-bottom: -1.1em;
+}
+
+.poembtw {
+	margin-top: -1.1em;
+	margin-bottom: -1.1em;
+}
+
+marginleft02 {
+	margin-left: 0.2em;
+}
+
+table.n {
+		font-family: "Times New Roman", Times, serif;
+        font-size: 1em;
+        margin-top: -0.1em;        
+        margin-bottom: -0.1em;             
+        border-collapse: collapse;
+        border: none;
+		width: 100%;
+}
+
+span.bracket2
+{
+-ms-transform:scaleY(2);
+-webkit-transform:scaleY(2);
+-moz-transform:scaleY(2);
+transform:scaleY(2);
+display:inline-block;
+}
+span.bracket3
+{
+-ms-transform:scaleY(3);
+-webkit-transform:scaleY(3);
+-moz-transform:scaleY(3);
+transform:scaleY(3);
+display:inline-block;
+}
+span.bracket4
+{
+-ms-transform:scaleY(4);
+-webkit-transform:scaleY(4);
+-moz-transform:scaleY(4);
+transform:scaleY(4);
+display:inline-block;
+}
+span.bracket5
+{
+-ms-transform:scaleY(5);
+-webkit-transform:scaleY(5);
+-moz-transform:scaleY(5);
+transform:scaleY(5);
+display:inline-block;
+}
+span.bracket6
+{
+-ms-transform:scaleY(6);
+-webkit-transform:scaleY(6);
+-moz-transform:scaleY(6);
+transform:scaleY(6);
+display:inline-block;
+}
+span.bracket7
+{
+-ms-transform:scaleY(7);
+-webkit-transform:scaleY(7);
+-moz-transform:scaleY(7);
+transform:scaleY(7);
+display:inline-block;
+}

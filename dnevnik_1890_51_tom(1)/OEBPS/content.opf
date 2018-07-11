@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="dcidid" version="2.0">
+  <metadata xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Толстой Л.Н." opf:role="aut">Толстой Л.Н.</dc:creator>
+    <meta name="cover" content="Images_coverfa2b7fca0f314d60bfc90c871ca304df.png" />
+    <dc:title>Полное собрание сочинений. Дневник 1890 г.</dc:title>
+    <dc:language>ru</dc:language>
+    <dc:identifier id="dcidid" opf:scheme="UUID">urn:uuid:7bac925e-a8d8-41ac-8d65-0bfe9a42e9d8</dc:identifier>
+    <meta content="0.1.0.159" name="Quadlab Editor version" />
+    <dc:date opf:event="creation">2014-06-26</dc:date>
+    <meta content="0.7.3" name="Sigil version" />
+    <dc:date opf:event="modification">2014-06-27</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Images/coverfa2b7fca0f314d60bfc90c871ca304df.png" id="Images_coverfa2b7fca0f314d60bfc90c871ca304df.png" media-type="image/png" />
+    <item href="Text/cover.xhtml" id="Text_cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1001.xhtml" id="Text_0001_1001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1002.xhtml" id="Text_0001_1002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1003.xhtml" id="Text_0001_1003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1004.xhtml" id="Text_0001_1004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1005.xhtml" id="Text_0001_1005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1006.xhtml" id="Text_0001_1006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1007.xhtml" id="Text_0001_1007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1009.xhtml" id="Text_0001_1009.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1009_2001.xhtml" id="Text_0001_1009_2001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1009_2002.xhtml" id="Text_0001_1009_2002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1009_2003.xhtml" id="Text_0001_1009_2003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1009_2004.xhtml" id="Text_0001_1009_2004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1010.xhtml" id="Text_0001_1010.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1011.xhtml" id="Text_0001_1011.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1012.xhtml" id="Text_0001_1012.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notes.xhtml" id="Text_notes.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/b00000096.png" id="Images_b00000096.png" media-type="image/png" />
+    <item href="Images/i000000840007.png" id="Images_i000000840007.png" media-type="image/png" />
+    <item href="Images/i000000840005.png" id="Images_i000000840005.png" media-type="image/png" />
+    <item href="Images/i000000840002.png" id="Images_i000000840002.png" media-type="image/png" />
+    <item href="Images/b00000033.png" id="Images_b00000033.png" media-type="image/png" />
+    <item href="Styles/style.css" id="Styles_style.css" media-type="text/css" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/0001_1008.xhtml" id="x0001_1008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Text_cover.xhtml" />
+    <itemref idref="Text_0001_1001.xhtml" />
+    <itemref idref="Text_0001_1002.xhtml" />
+    <itemref idref="Text_0001_1003.xhtml" />
+    <itemref idref="Text_0001_1004.xhtml" />
+    <itemref idref="Text_0001_1005.xhtml" />
+    <itemref idref="Text_0001_1006.xhtml" />
+    <itemref idref="Text_0001_1007.xhtml" />
+    <itemref idref="x0001_1008.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Text_0001_1009.xhtml" />
+    <itemref idref="Text_0001_1009_2001.xhtml" />
+    <itemref idref="Text_0001_1009_2002.xhtml" />
+    <itemref idref="Text_0001_1009_2003.xhtml" />
+    <itemref idref="Text_0001_1009_2004.xhtml" />
+    <itemref idref="Text_0001_1010.xhtml" />
+    <itemref idref="Text_0001_1011.xhtml" />
+    <itemref idref="Text_0001_1012.xhtml" />
+    <itemref idref="Text_notes.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Обложка" type="cover" />
+    <reference href="Text/0001_1001.xhtml" title="Полное собрание сочинений. Дневник 1890 г." type="text" />
+  </guide>
+</package>

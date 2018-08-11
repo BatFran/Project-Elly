@@ -17,8 +17,7 @@ print(len(raw))
 print(raw.shape)
 
 #August 11th, 2018: struggling with creating data frame. The good thing is that I can create an empty data frame, 
-#df = pd.DataFrame(eval("raw"))
-#tolstoy_dataframe = pd.DataFrame(data="raw", index=['orejarena', '. ', '/n'], columns=['Date', 'Place', 'Entry'], dtype=object)
-tolstoy_dataframe = pd.DataFrame(columns=['Date', 'Place', 'Entry'])
+df = pd.DataFrame(eval("raw"))
+tolstoy_dataframe = pd.DataFrame(data="raw", index=['orejarena', '. ', '/n'], columns=['Date', 'Place', 'Entry'], dtype=object)
 
 print(tolstoy_dataframe)

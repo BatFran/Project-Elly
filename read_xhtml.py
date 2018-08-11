@@ -10,3 +10,5 @@ soup = BeautifulSoup(open(".\dnevnik_1890_51_tom(1)/OEBPS/Text/0001_1009_2001.xh
 #print(soup.prettify())
 
 print(soup.title)
+
+print(soup.text)
